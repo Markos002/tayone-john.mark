@@ -4,6 +4,7 @@ import { education } from './data/education';
 import { stats } from './data/stats';
 import { personalInfo} from './data/personal';
 import MyImage from './assets/JMT.jpg';
+import Logo from '../public/favicon.png';
 
 export default function App() {
     return (
@@ -12,7 +13,7 @@ export default function App() {
             <header className="bg-[#161b22] border-b border-[#21262d] sticky top-0 z-50">
                 <nav className="max-w-7xl mx-auto px-8 py-4 flex justify-between items-center">
                     <a href="#" className="text-xl font-semibold text-[#58a6ff]">
-                        John Mark Tayone
+                        <img className="h-12" src={Logo} alt="logo description"/>
                     </a>
                     <ul className="flex gap-6">
                         {['Projects', 'Skills', 'Education', 'Contact'].map((item) => (
