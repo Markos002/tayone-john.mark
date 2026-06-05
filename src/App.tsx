@@ -226,23 +226,11 @@ export default function App() {
                         I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
                     </p>
                     <a
-                        href="mailto:tayonejohnmark1@gmail.com"
+                        href="mailto:gkuyamark@gmail.com"
                         className="inline-block px-6 py-3 bg-[#238636] text-white rounded-md hover:bg-[#2ea043] transition-colors font-medium text-sm mb-8"
                     >
                         Send Email
                     </a>
-
-                    <div className="flex justify-center gap-6">
-                        {['🐙', '💼', '🐦', '📧'].map((icon, index) => (
-                            <a
-                                key={index}
-                                href="#"
-                                className="w-12 h-12 bg-[#21262d] border border-[#30363d] rounded-md flex items-center justify-center text-xl hover:bg-[#30363d] hover:border-[#58a6ff] transition-all"
-                            >
-                                {icon}
-                            </a>
-                        ))}
-                    </div>
                 </div>
             </section>
 

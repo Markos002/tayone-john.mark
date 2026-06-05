@@ -1,7 +1,7 @@
 export const stats = [
     {
         id: 1,
-        number: "3+",
+        number: "6+",
         label: "Projects Completed"
     },
     {
@@ -16,7 +16,7 @@ export const stats = [
     },
     {
         id: 4,
-        number: "79+",
+        number: "192+",
         label: "GitHub Contributions"
     }
 ];

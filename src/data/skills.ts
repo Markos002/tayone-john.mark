@@ -2,17 +2,21 @@ export const skills = {
     frontend: [
         "HTML/CSS",
         "JavaScript",
-        "React",
+        "ReactJs",
+        "NextJs",
         "Typescript",
         "TailwindCSS",
-        "Next.js"
+        "NextJs",
+        "InertiaJs",
+        "VueJs"
     ],
     backend: [
-        "Springboot",
+        "Spring Boot",
         "PHP",
         "Laravel",
         "MySQL",
         "REST APIs",
+        "NestJs",
     ],
     tools: [
         "Git",
@@ -20,6 +24,9 @@ export const skills = {
         "WSL",
         "VS Code",
         "Postman",
-        "Linux"
+        "Linux",
+        "Apache",
+        "Nginx",
+        "Grafana"
     ]
 };

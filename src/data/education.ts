@@ -8,8 +8,8 @@ export const education = [
         description: "Focused on software engineering, data structures, algorithms, and web development. Completed senior project on building a backend web application with modern technologies.",
         achievements: [
             { icon: "🎓", text: "Graduated with Honors" },
-            { icon: "📊", text: "GPA: 1.9" },
-            { icon: "🏆", text: "Dean's List" }
+            { icon: "📊", text: "GPA: 1.74" },
+            { icon: "🏆", text: "Cum Laude" }
         ]
     },
     {
@@ -22,7 +22,7 @@ export const education = [
         achievements: [
             { icon: "✓", text: "Fundamentals of Basic Linux Command" },
             { icon: "✓", text: "Certified Jr. Penetration Tester" },
-            { icon: "✓", text: "Google Cybersecurity Professional Certificate graduate" },
+            { icon: "✓", text: "Google Cybersecurity Professional Certificate Graduate" },
         ]
     },
     {
