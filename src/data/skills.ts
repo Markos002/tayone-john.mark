@@ -27,6 +27,7 @@ export const skills = {
         "Linux",
         "Apache",
         "Nginx",
-        "Grafana"
+        "Grafana",
+        "DevTools"
     ]
 };
